@@ -15,8 +15,8 @@ El objetivo de este proyecto es desarrollar y evaluar un modelo de predicción d
 
 Clona este repositorio en tu máquina local e instala las dependencias del proyecto
 
-## 
-Uso
+## Uso
+
 Asegúrate de tener los archivos de datos y modelos en los directorios correctos:
 
 model/trained_model.pkl
