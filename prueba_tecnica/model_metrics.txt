@@ -1,0 +1,9 @@
+Accuracy: 0.7863733144073811
+              precision    recall  f1-score   support
+
+       Alpha       0.82      0.90      0.86      1036
+       Betha       0.63      0.46      0.53       373
+
+    accuracy                           0.79      1409
+   macro avg       0.73      0.68      0.70      1409
+weighted avg       0.77      0.79      0.77      1409
