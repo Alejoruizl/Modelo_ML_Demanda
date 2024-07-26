@@ -1,9 +1,16 @@
-Accuracy: 0.7863733144073811
+Modelo utilizado: RandomForestClassifier
+Cantidad de datos de entrenamiento: 5634
+Cantidad de datos de testeo: 1409
+Accuracy: 0.74
+Classification Report:
               precision    recall  f1-score   support
 
-       Alpha       0.82      0.90      0.86      1036
-       Betha       0.63      0.46      0.53       373
+       Alpha       0.74      1.00      0.85      1036
+       Betha       1.00      0.00      0.01       373
 
-    accuracy                           0.79      1409
-   macro avg       0.73      0.68      0.70      1409
-weighted avg       0.77      0.79      0.77      1409
+    accuracy                           0.74      1409
+   macro avg       0.87      0.50      0.43      1409
+weighted avg       0.81      0.74      0.62      1409
+Confusion Matrix:
+[[1036    0]
+ [ 372    1]]
